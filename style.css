@@ -2,5 +2,8 @@ body{
     background-image: url(https://www.reuters.com/resizer/v2/JUBUGPN2LBA4VHLJPHEYXTVQME.JPG?auth=328d255dd2c042d240c7b7ec7619fbd2ff0cf25a506bbc086f9f32f9f7ab36c6&width=1920&quality=80);
   
     background-repeat: no-repeat;
-    text-align: center;
+  margin: 25px;
+    background-size: cover;
+    background-position: 20% 20%;
+    color: rgb(0, 0, 0);
 }
